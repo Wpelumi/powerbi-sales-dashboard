@@ -1,4 +1,5 @@
 # Power BI Sales Dashboard 📊
+![Dashboard Thumbnail](thumbnail.png)
 
 This interactive dashboard was built using Power BI to analyze and visualize sales data across product categories, customer segments, and geographic regions.
 
@@ -22,5 +23,5 @@ This interactive dashboard was built using Power BI to analyze and visualize sal
 ### 💼 About Me
 I'm **Wahab Oluwapelumi Tamilore**, a recent graduate of Babcock University with a passion for turning data into decisions. I'm currently seeking entry-level opportunities in **Data Analytics** or **Tech Support**.
 
-📫 Contact me on [LinkedIn](https://www.linkedin.com) *(replace with your actual LinkedIn)*
+📫 Contact me on [LinkedIn](https://www.linkedin.com/in/oluwapelumi-wahab-baba55263/) 
 
