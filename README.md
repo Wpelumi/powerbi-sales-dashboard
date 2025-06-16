@@ -1,5 +1,5 @@
 # Power BI Sales Dashboard 📊
-![Dashboard Thumbnail](thumbnail.png)
+![Dashboard Thumbnail](Thumbnail.png)
 
 This interactive dashboard was built using Power BI to analyze and visualize sales data across product categories, customer segments, and geographic regions.
 
